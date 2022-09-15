@@ -1,0 +1,5 @@
+a.out
+main.c
+*.o
+ex01/srcs*/*
+*.a
