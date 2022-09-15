@@ -1,0 +1,1 @@
+find . | grep -v "\.\/\.git$" | grep -v "\.\/\.git/" | grep -v "^.$" | grep -v "[0-9]$" | sed "s/^.\///" | sort
