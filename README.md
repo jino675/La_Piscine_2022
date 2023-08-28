@@ -24,4 +24,6 @@ ___
 17. Rush02
 18. BSQ (개행 문자를 넣어야 하는 걸 놓쳐 감점)
 
+___
+
 <img width="80%" src="https://github.com/jino675/sogang_lecture/assets/66165015/e345d0a9-7b90-4ce0-a22b-c32424c8117e">
