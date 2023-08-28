@@ -3,7 +3,7 @@ ___
 
 본 저장소는 42 Seoul 예비과정인 La_Piscine 과정 중 작성했던 코드를 저장하는 곳입니다.
 
-과제 목록
+해결한 과제 목록
 
 1. shell00
 2. shell01
@@ -17,9 +17,11 @@ ___
 10. C07
 11. C08
 12. C09
-13. C10
+13. C10  (4개 중 3개 해결)
 14. C11
 15. Rush00
 16. Rush01
 17. Rush02
-18. BSQ
+18. BSQ (개행 문자를 넣어야 하는 걸 놓쳐 감점)
+
+<img width="80%" src="https://github.com/jino675/sogang_lecture/assets/66165015/e345d0a9-7b90-4ce0-a22b-c32424c8117e">
